@@ -1,6 +1,7 @@
-## Hi! I'm RUTHIRAMOORTHI R👋
+                                               ## Hi! I'm RUTHIRAMOORTHI R👋
 
 👨‍💻 About Me
 
-Hi! I'm Ruthira Moorthi, a passionate Engineering student exploring the world of Web Development, IoT, and AI-powered music systems.
-I love building projects that solve real-world problems and enhance user experience.
+A dedicated and curious Engineering student with a passion for technology and a strong interest in
+problem-solving and continuous learning. Driven by a desire to understand how modern
+technology impacts real-world applications, especially in areas like and software development.
