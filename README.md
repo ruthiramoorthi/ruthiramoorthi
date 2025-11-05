@@ -14,9 +14,3 @@ technology impacts real-world applications, especially in areas like and softwar
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthiramoorthi&layout=compact&theme=tokyonight)
 
-🌐 Connect With Me
-
-📧 Email	-   rudhram64@gmail.com
-
-💼 LinkedIn	 -  https://www.linkedin.com/in/ruthiramoorthi-r-343767285/
-
