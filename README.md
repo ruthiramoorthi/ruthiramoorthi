@@ -5,13 +5,15 @@ problem-solving and continuous learning. Driven by a desire to understand how mo
 technology impacts real-world applications, especially in areas like and software development.
 
 🧠 Currently Learning
-
-      React.js
-
-      Spring Boot (Java Backend)
-
-      MongoDB schema design & indexing
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true&theme=tokyonight)
-
+  • React.Js
+  • Spring Boot (Java Backend)
+  • MongoDB schema design & indexing
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthiramoorthi&layout=compact&theme=tokyonight)
+
+🌐 Connect With Me
+Platform	Link
+📧 Email	rudhram64@gmail.com
+💼 LinkedIn	 Linkedin
+🐙 GitHub	Github
+
