@@ -1,3 +1,5 @@
+👋 Hi, I'm Ruthira Moorthi
+
 👨‍💻 About Me
 
 A dedicated and curious Engineering student with a passion for technology and a strong interest in
