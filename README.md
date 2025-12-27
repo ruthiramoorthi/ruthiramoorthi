@@ -1,11 +1,11 @@
-##                                              வணக்கம் 👋 I'm Ruthiramoorti
+##                                              வணக்கம் 🙏🏻 
 
-Aspiring Java Backend Developer focused on building secure, scalable, and real-world backend applications using Spring Boot.
+I'm Ruthiramoorthi Aspiring Java Backend Developer focused on building secure, scalable, and real-world backend applications using Spring Boot.
 
 -----------------------------------------------------------------------------------------
 
 ## 🚀 About Me
-- 🌱 Currently learning **Spring Boot & Backend Development**
+- 📈 Currently learning **Spring Boot & Backend Development**
 - 🛠 Building real-world projects to strengthen my backend skills
 - 🎯 Goal: Become a professional Java Backend Developer
 - 📘 Continuously improving problem-solving and API design
@@ -46,6 +46,5 @@ Aspiring Java Backend Developer focused on building secure, scalable, and real-w
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthiramoorthi&layout=compact&theme=tokyonight)
-
 
 ---------------------------------------------------------------------------------------------
