@@ -43,8 +43,23 @@ I'm Ruthiramoorthi Aspiring Java Backend Developer focused on building secure, s
 ----------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthiramoorthi&layout=compact&theme=tokyonight)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true&theme=github_dark&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true&theme=default&cache_seconds=1800"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ruthiramoorthi&show_icons=true" 
+      alt="GitHub Stats"
+    />
+  </picture>
+</p>
 
 ---------------------------------------------------------------------------------------------
+
