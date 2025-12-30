@@ -1,4 +1,4 @@
-##                                              வணக்கம் 🙏🏻 
+##                                              Hii There
 
 I'm Ruthiramoorthi Aspiring Java Backend Developer focused on building secure, scalable, and real-world backend applications using Spring Boot.
 
